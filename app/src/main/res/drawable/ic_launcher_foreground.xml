@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Mortarboard Diamond -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L78,37 L54,48 L30,37 Z" />
+    
+    <!-- Cap Under Skullcap -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M38,41.5 L38,50 C38,56 45,60 54,60 C63,60 70,56 70,50 L70,41.5 L54,49 Z" />
+
+    <!-- Tassel and Golden Ribbon -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M72,39 L78,54 L81,54 L81,59 L75,59 L75,54 L76,54 L71,40 Z" />
+
+    <!-- Open Book Base in white & light blue -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,66 C36,63 46,63 53,67 L53,84 C46,80 36,80 28,83 Z" />
+    
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M55,67 C62,63 72,63 80,66 L80,83 C72,80 62,80 55,84 Z" />
+
+    <!-- Book Spine Glow / Star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,64 L56,60 L54,56 L52,60 Z" />
+</vector>

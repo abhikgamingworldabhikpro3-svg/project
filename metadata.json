@@ -1,0 +1,6 @@
+{
+  "name": "TuitionHub",
+  "description": "Comprehensive Tuition & Coaching Management System for teachers and students to manage classes, attendance, fees, exams, and assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
